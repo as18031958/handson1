@@ -1,0 +1,52 @@
+Hands-on 1  Step by step discussion
+
+step 1 - Heading - h1
+step 2 - ancher tag - we can connect two different page.(html) - link
+step 3 - HTML page
+step 4 - load a img form local storage
+step 5 - load a img from internet
+step 6 - hr
+
+hr tag is for horizontal line
+br tag is used for break the link.
+
+
+<a href='./' target='_blank'>Link</a>
+
+img tag is self closing tag
+
+
+List In HTML - Three Types of list in HTML
+1. Ordered List 
+    - Five type of Ordered List
+    A. Upper Alphabate
+    a. Lower Alphabate
+    I. Upper Roman
+    i. Lower Roman
+    5. Number
+
+    - Order list is going to start with ol tag (ol - Order list)
+    - for list item we are using li (li - list item)
+    - Default type of order list is number. (Numerical Value).
+    - for get the output as uppder roman or lower roman we should use 'I' or 'i'.
+    - Attributes we are using in Ordered List (3 Types)
+        1. Type
+        2. Start
+        3. reverse
+2. Unordered List
+    - Four Type of Unordered List 
+    - default type of unorder list is Disc.
+    - for creating a unorder list we can use ul tag.
+    - the first value of default unorder is Disc, second is Circle, third is square.
+    1. Disc
+    2. Circle
+    3. Square
+    4. None
+    - Attributes we are using in Unordered list (1 Type)
+        1. Type
+3. Description List - 
+- dl - description list
+- dt - description term / tag
+- dd - description data
+
+Nasted List
